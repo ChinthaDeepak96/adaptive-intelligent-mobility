@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# ROS 2
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# CARLA
+simulation/carla/cache/
+simulation/carla/logs/
+
+# Datasets
+datasets/raw/
+datasets/**/*.zip
+datasets/**/*.tar
+datasets/**/*.7z
+
+# Trained models / checkpoints
+models/**/*.pt
+models/**/*.pth
+models/**/*.onnx
+models/**/*.engine
+models/**/*.safetensors
+models/**/*.ckpt
+
+# Experiment generated data
+experiments/**/outputs/
+experiments/**/runs/
+evaluation/results/raw/
+evaluation/plots/generated/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
