@@ -1,0 +1,47 @@
+# ==============================
+# Simulation
+# ==============================
+carla==0.9.14                  # pinned - later versions break the ROS 2 bridge
+
+# ==============================
+# Computer Vision / Detection / Tracking
+# ==============================
+ultralytics==8.3.225           # YOLOv8-nano for perception (NOT yolov8x - too heavy for Pi 3B)
+opencv-python==4.10.0.84       # full build for sim/dev machine (Windows/WSL2)
+                                # NOTE: use opencv-python-headless instead on the Pi
+                                # (cv2.imshow breaks on headless Ubuntu Server)
+
+# ==============================
+# Core scientific / numeric
+# ==============================
+numpy==1.26.4                  # pinned <2.0 - CARLA 0.9.14's Python API expects numpy 1.x
+scipy==1.13.1                  # for uncertainty estimation, TTC math, risk calc
+pandas==2.2.2                  # dataset/label handling, experiment logs
+filterpy==1.4.5                # Kalman filtering - useful for the fusion/reliability engine
+
+# ==============================
+# Config / data / utils
+# ==============================
+PyYAML==6.0.2                  # configs/, classes.yaml
+tqdm==4.66.4                   # progress bars for dataset prep/training
+
+# ==============================
+# Hardware / serial communication
+# ==============================
+pyserial==3.5                  # Pi <-> ESP32 / Arduino Nano UART comms
+
+# ==============================
+# Visualization / evaluation
+# ==============================
+matplotlib==3.9.0              # benchmark plots (baseline vs adaptive comparisons)
+seaborn==0.13.2                 # nicer stats plots for the paper/report
+
+# ==============================
+# Dataset acquisition
+# ==============================
+kagglehub==0.3.13              # only if pulling supplementary datasets from Kaggle
+
+# ==============================
+# Dev / notebooks (optional)
+# ==============================
+jupyter==1.0.0                 # for experiments/ and evaluation/ exploratory work
