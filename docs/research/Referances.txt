@@ -1,0 +1,219 @@
+1 Deep Multi-Modal Object Detection and Semantic Segmentation for Autonomous
+
+https://arxiv.org/abs/1902.07830?utm_source=chatgpt.com
+
+Comments:	Update copyright; Interactive platform online: this https URL
+Subjects:	Robotics (cs.RO)
+Cite as:	arXiv:1902.07830 [cs.RO]
+ 	(or arXiv:1902.07830v4 [cs.RO] for this version)
+ 
+https://doi.org/10.48550/arXiv.1902.07830
+Focus to learn more
+Related DOI:
+https://doi.org/10.1109/TITS.2020.2972974
+
+
+
+
+2 DeepFusion Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection
+
+https://arxiv.org/abs/2203.08195
+
+Comments:	CVPR 2022. 1st rank 3D detection method on Waymo Challenge Leaderboard: this https URL
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:2203.08195 [cs.CV]
+ 	(or arXiv:2203.08195v1 [cs.CV] for this version)
+ 
+https://doi.org/10.48550/arXiv.2203.08195
+
+
+
+
+3 CenterFusion Center-based Radar and Camera Fusion for 3D Object Detection
+
+https://arxiv.org/abs/2011.04841
+
+
+Comments:	WACV 2021
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:2011.04841 [cs.CV]
+ 	(or arXiv:2011.04841v1 [cs.CV] for this version)
+ 
+https://doi.org/10.48550/arXiv.2011.04841
+Focus to learn more
+Related DOI:
+https://doi.org/10.1109/WACV48630.2021.00157
+
+
+
+
+4 Deep Learning Based Data Fusion for Sensor Fault Diagnosis and Tolerance in Autonomous Vehicles 
+
+https://link.springer.com/article/10.1186/s10033-021-00568-1?utm_source=chatgpt.com
+
+TY  - JOUR
+AU  - Pan, Huihui
+AU  - Sun, Weichao
+AU  - Sun, Qiming
+AU  - Gao, Huijun
+PY  - 2021
+DA  - 2021/07/20
+TI  - Deep Learning Based Data Fusion for Sensor Fault Diagnosis and Tolerance in Autonomous Vehicles
+JO  - Chinese Journal of Mechanical Engineering
+SP  - 72
+VL  - 34
+IS  - 1
+AB  - Environmental perception is one of the key technologies to realize autonomous vehicles. Autonomous vehicles are often equipped with multiple sensors to form a multi-source environmental perception system. Those sensors are very sensitive to light or background conditions, which will introduce a variety of global and local fault signals that bring great safety risks to autonomous driving system during long-term running. In this paper, a real-time data fusion network with fault diagnosis and fault tolerance mechanism is designed. By introducing prior features to realize the lightweight network, the features of the input data can be extracted in real time. A new sensor reliability evaluation method is proposed by calculating the global and local confidence of sensors. Through the temporal and spatial correlation between sensor data, the sensor redundancy is utilized to diagnose the local and global confidence level of sensor data in real time, eliminate the fault data, and ensure the accuracy and reliability of data fusion. Experiments show that the network achieves state-of-the-art results in speed and accuracy, and can accurately detect the location of the target when some sensors are out of focus or out of order. The fusion framework proposed in this paper is proved to be effective for intelligent vehicles in terms of real-time performance and reliability.
+SN  - 2192-8258
+UR  - https://doi.org/10.1186/s10033-021-00568-1
+DO  - 10.1186/s10033-021-00568-1
+ID  - Pan2021
+ER  - 
+
+
+
+
+5 Fault Diagnosis of the Autonomous Driving Perception System Based on Information Fusion
+
+https://www.mdpi.com/1424-8220/23/11/5110?utm_source=chatgpt.com#
+
+Sensors 2023, 23(11), 5110; https://doi.org/10.3390/s23115110
+Submission received: 12 April 2023 / Revised: 18 May 2023 / Accepted: 22 May 2023 / Published: 26 May 2023
+(This article belongs to the Special Issue Sensor and Actuator Fault Detection, Isolation and Recovery for Autonomous and Transport Vehicles)
+
+
+
+6 Fault detection with confidence level evaluation for perception module of autonomous vehicles based on LSTM and Gaussian Mixture Model
+
+https://www.sciencedirect.com/science/article/abs/pii/S1568494623010281?utm_source=chatgpt.com
+
+Yonghwan Jeong,
+Fault detection with confidence level evaluation for perception module of autonomous vehicles based on long short term memory and Gaussian Mixture Model,
+Applied Soft Computing,
+Volume 149, Part B,
+2023,
+111010,
+ISSN 1568-4946,
+https://doi.org/10.1016/j.asoc.2023.111010.
+(https://www.sciencedirect.com/science/article/pii/S1568494623010281)
+Abstract: The reliability of perception is crucial for developing higher levels of autonomy to enhance the safety and performance of fully autonomous vehicles. As a result, fault detection in the perception module is an essential function for autonomous vehicles. While many approaches rely on hardware redundancy, necessitating additional sensors, achieving analytical redundancy in perception is a pivotal factor in reducing the cost and complexity of the autonomous system. This paper utilizes a motion predictor for surrounding vehicles and a Gaussian Mixture Model (GMM) to evaluate the confidence level of the perception module without requiring additional sensor installations. The motion predictor is designed based on a long short-term memory-based recurrent neural network. The error between the motion prediction and detection results is leveraged to estimate the confidence level of the perception module. In essence, the motion prediction results are treated as redundant sensor measurements. The error distribution is modeled using a GMM, and the cumulative probability density of the GMM is employed to assess the confidence level. The proposed algorithm's effectiveness is evaluated through a driving data-based simulation study with fault injection. This study shows an enhanced sensitivity to injected faults and a reduced time for fault detection. Furthermore, the proposed algorithm provides a quantitative estimate of the performance degradation level of the perception module. This estimation can serve as an indicator of uncertainty that the motion planner should account for.
+Keywords: Autonomous vehicles; Fault detection; Gaussian mixture model; Long short-term memory; Recurrent neural networks
+
+
+
+
+
+7 The Road to Safety: A Review of Uncertainty and Applications to Autonomous Driving Perception
+
+https://www.mdpi.com/1099-4300/26/8/634?utm_source=chatgpt.com
+
+Bosch Car Multimedia S.A., 4705-820 Braga, Portugal
+*
+Author to whom correspondence should be addressed.
+Entropy 2024, 26(8), 634; https://doi.org/10.3390/e26080634
+Submission received: 14 June 2024 / Revised: 12 July 2024 / Accepted: 16 July 2024 / Published: 26 July 2024
+
+
+
+
+8 Uncertainty Quantification for Adaptive Measurement Noise in Kalman Filter Based Object Tracking
+
+https://ieeexplore.ieee.org/document/10773809?utm_source=chatgpt.com
+
+F. Ulreich, A. Kaup and M. Ebert, "Uncertainty Quantification for Adaptive Measurement Noise in Kalman Filter Based Object Tracking," 2024 Sensor Data Fusion: Trends, Solutions, Applications (SDF), Bonn, Germany, 2024, pp. 1-7, doi: 10.1109/SDF63218.2024.10773809.Abstract: The application of deep learning systems in the perception of autonomous vehicles results in the need for information about the trust in its predictions. In our work, we use methods from the field of uncertainty quantification and probability theory to natively integrate the 3D object detection stage into multi-object tracking for perception. For this purpose, we fine-tune a state-of-the-art sensor fusion model for camera and LiDAR data to output a full probability distribution. We propose a calibration scheme and we quantitatively show that predictive uncertainty can be linked to object occlusion. We furthermore compare predictive uncertainty with post-hoc calculated empirical uncertainty in terms of calibration and tracking performance. Through our approach, we reduce the calibration error of the center x-coordinates about 92% and of the center y-coordinates about 87%. Moreover, we utilize the predictive uncertainty estimate of our detector as the measurement variance in Kalman filtering for multi-object tracking, reducing average tracking position error on the nuScenes data set by about 1.3%. keywords: {Uncertainty;Three-dimensional displays;Measurement uncertainty;Object detection;Sensor fusion;Position measurement;Probability distribution;Calibration;Kalman filters;Object tracking;Object tracking;uncertainty quantification;calibration;sensor fusion;Kalman filter;deep learning},URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10773809&isnumber=10773666
+
+
+
+
+
+
+
+9 Road traffic safety assessment in self-driving vehicles based on time-to-collision with motion orientation
+
+https://www.sciencedirect.com/science/article/abs/pii/S0001457523002191?utm_source=chatgpt.com#cited-by
+
+Fernando M. Ortiz, Matteo Sammarco, Marcin Detyniecki, Luís Henrique M.K. Costa,
+Road traffic safety assessment in self-driving vehicles based on time-to-collision with motion orientation,
+Accident Analysis & Prevention,
+Volume 191,
+2023,
+107172,
+ISSN 0001-4575,
+https://doi.org/10.1016/j.aap.2023.107172.
+(https://www.sciencedirect.com/science/article/pii/S0001457523002191)
+Abstract: Traffic conflict analysis based on Surrogate Safety Measures (SSMs) helps to estimate the risk level of an ego-vehicle interacting with other road users. Nonetheless, risk assessment for autonomous vehicles (AVs) is still incipient, given that most of the AVs are currently prototypes and current SSMs do not directly apply to autonomous driving styles. Therefore, to assess and quantify the potential risk arising from AV interactions with other road users, this study introduces the TTCmo (Time-to-Collision with motion orientation), a metric that considers the yaw angle of conflicting objects. In fact, the yaw angle represents the orientation of the other road users and objects detected by the AV sensors, enabling a better identification of potential risk events from changes in the motion orientation and position through the geometric analysis of the boundaries for each detected object. Using the 3D object detection data annotations available from the publicly available AV datasets nuScenes and Lyft5 and the TTCmo metric, we find that at least 8% of the interactions with objects detected around the AV present some risk level. This is meaningful, since it is possible to reduce the proportion of data analyzed by up to 60% when replacing regular TTC by our improved TTC computation.
+Keywords: Surrogate Safety Measures; Autonomous vehicles; Smart mobility; Road safety
+
+
+
+
+
+
+
+10 A risk-aware driving agent with Long Short-Term Memory and Time-to-Collision co-decision and multi-modal fusion in urban simulation
+
+https://www.sciencedirect.com/science/article/abs/pii/S0952197626006822?utm_source=chatgpt.com
+
+Xu Zhao, Yu Gao, Wen Liu, Lianpeng Li, Suxian Zhang, Zijun Wang,
+A risk-aware driving agent with Long Short-Term Memory and Time-to-Collision co-decision and multi-modal fusion in urban simulation,
+Engineering Applications of Artificial Intelligence,
+Volume 173,
+2026,
+114401,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2026.114401.
+(https://www.sciencedirect.com/science/article/pii/S0952197626006822)
+Abstract: We present a risk-aware driving agent for urban freeway settings that combines Long Short-Term Memory (LSTM) motion prediction with a dynamic Time-to-Collision (TTC) safety gate. Light Detection and Ranging (LiDAR), point-cloud radar, and camera inputs are fused in a unified interface; the decision layer predicts lead-vehicle acceleration and combines it with TTC that reflects road adhesion, braking capability, and obstacle confidence. A finite-state machine with hysteresis maps TTC to four discrete risk actions: safe, warning, prepare, and automatic emergency braking (AEB). The enhanced version adds multi-target Kalman tracking, adaptive TTC parameters, and physics-aware acceleration limits. The TTC gate remains explicit. A Transformer-based fusion backbone and a deep Q-network (DQN) planner process heterogeneous sensor features. In this engineering artificial intelligence application for autonomous driving and intelligent transportation systems, the implemented artificial intelligence modules (including LSTM prediction, attention-based multi-modal fusion, and DQN planning) operate under the same TTC-based safety logic so that risk metrics and braking bounds remain explicit. Experiments cover a 60-second, 1.9-kilometer free-flow run and two scripted hazards: an aggressive cut-in (minimum headway 0.64 meters, minimum TTC 0.07 s, warning/prepare/automatic emergency braking occupancy 48.8%, with 10.8% automatic emergency braking) and a pedestrian crossing (minimum pedestrian gap 3.1 meters, warning/prepare/automatic emergency braking occupancy 48.0%). A TTC-parameter sweep and a TTC-only ablation show that the current thresholds are conservative in benign cases and that calibration should focus on sharper hazards. The agent design and logs provide a transparent baseline for longitudinal risk-aware control.
+Keywords: Autonomous driving; Time-to-collision safety gating; Long short-term memory motion prediction; Multi-modal sensor fusion; Deep reinforcement learning path planning; Artificial intelligence for intelligent transportation systems
+
+
+
+
+
+
+
+
+11 V2X Cooperative Perception for Autonomous Driving: Recent Advances and Challenges
+
+https://arxiv.org/abs/2310.03525?utm_source=chatgpt.com
+
+
+Comments:	This article has been accepted for publication in Proceedings of the IEEE on 11 August 2025
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+Cite as:	arXiv:2310.03525 [cs.CV]
+ 	(or arXiv:2310.03525v5 [cs.CV] for this version)
+ 
+https://doi.org/10.48550/arXiv.2310.03525
+Focus to learn more
+Related DOI:
+https://doi.org/10.1109/JPROC.2025.3600903
+
+
+
+
+
+12 CARLA: An Open Urban Driving Simulator
+
+https://arxiv.org/abs/1711.03938?utm_source=chatgpt.com
+
+
+
+Comments:	Published at the 1st Conference on Robot Learning (CoRL)
+Subjects:	Machine Learning (cs.LG); Artificial Intelligence (cs.AI); Computer Vision and Pattern Recognition (cs.CV); Robotics (cs.RO)
+Cite as:	arXiv:1711.03938 [cs.LG]
+ 	(or arXiv:1711.03938v1 [cs.LG] for this version)
+ 
+https://doi.org/10.48550/arXiv.1711.03938
+
+
+
+13 Sensor-Centric Survey of Autonomous Driving: Integrating Measurement Physics, Uncertainty Modeling, and Safety-Critical Multi-Sensor Fusion
+
+https://www.mdpi.com/1424-8220/26/12/3801?utm_source=chatgpt.com
+
+Sensors 2026, 26(12), 3801; https://doi.org/10.3390/s26123801
+Submission received: 15 April 2026 / Revised: 30 May 2026 / Accepted: 6 June 2026 / Published: 15 June 2026
+
+
+
+

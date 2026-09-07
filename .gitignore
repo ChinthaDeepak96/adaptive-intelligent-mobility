@@ -44,6 +44,7 @@ simulation/carla/logs/
 
 # Datasets
 datasets/raw/
+datasets/TiHan Datasets/
 datasets/**/*.zip
 datasets/**/*.tar
 datasets/**/*.7z
